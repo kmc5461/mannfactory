@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "title": "Minimal Beyaz Gömlek",
+    "slug": "minimal-beyaz-gomlek",
+    "price": 599,
+    "currency": "TRY",
+    "image": "/images/gomlek-beyaz.jpg",
+    "category": "gömlek",
+    "description": "Premium pamuktan üretilen zamansız beyaz gömlek. Klasik kesim ve minimalist tasarımıyla her kombinle uyum sağlar. %100 organik pamuk."
+  },
+  {
+    "id": 2,
+    "title": "Siyah Polo Tişört",
+    "slug": "siyah-polo-tisort",
+    "price": 299,
+    "currency": "TRY",
+    "image": "/images/polo-siyah.jpg",
+    "category": "tişört",
+    "description": "Yüksek kaliteli organik pamuktan üretilmiş minimal polo tişört. Günlük kulanım için ideal, nefes alabilir kumaş."
+  },
+  {
+    "id": 3,
+    "title": "Antrasit Chino Pantolon",
+    "slug": "antrasit-chino-pantolon",
+    "price": 799,
+    "currency": "TRY",
+    "image": "/images/chino-antrasit.jpg",
+    "category": "pantolon",
+    "description": "Modern kesimli chino pantolon. Elastan karışımı sayesinde hareket özgürlüğü sağlar. İş ve günlük yaşam için mükemmel."
+  },
+  {
+    "id": 4,
+    "title": "Gri Sweatshirt",
+    "slug": "gri-sweatshirt",
+    "price": 449,
+    "currency": "TRY",
+    "image": "/images/sweatshirt-gri.jpg",
+    "category": "sweatshirt",
+    "description": "Oversize kesimli minimal sweatshirt. %80 organik pamuk, %20 geri dönüştürülmüş polyester. Sürdürülebilir üretim."
+  },
+  {
+    "id": 5,
+    "title": "Lacivert Blazer",
+    "slug": "lacivert-blazer",
+    "price": 1299,
+    "currency": "TRY",
+    "image": "/images/blazer-lacivert.jpg",
+    "category": "ceket",
+    "description": "Tailored fit lacivert blazer. Yün karışımı kumaş, astarlı içyapı. Formal ve casual kombinlerde kullanılabilir."
+  },
+  {
+    "id": 6,
+    "title": "Beyaz Sneaker",
+    "slug": "beyaz-sneaker",
+    "price": 899,
+    "currency": "TRY",
+    "image": "/images/sneaker-beyaz.jpg",
+    "category": "ayakkabı",
+    "description": "Minimal tasarımlı beyaz sneaker. Vegan deri, geri dönüştürülmüş taban. Günlük konfor ve şıklığın buluşması."
+  },
+  {
+    "id": 7,
+    "title": "Krem Kazak",
+    "slug": "krem-kazak",
+    "price": 699,
+    "currency": "TRY",
+    "image": "/images/kazak-krem.jpg",
+    "category": "kazak",
+    "description": "Merino yünü karışımlı krem kazak. Yumuşak dokunuş, termal özellik. Kış ayları için ideal seçim."
+  },
+  {
+    "id": 8,
+    "title": "Siyah Denim",
+    "slug": "siyah-denim",
+    "price": 849,
+    "currency": "TRY",
+    "image": "/images/denim-siyah.jpg",
+    "category": "pantolon",
+    "description": "Slim fit siyah denim. %98 pamuk, %2 elastan. Çevre dostu boyama teknikleriyle üretilmiştir."
+  }
+]
