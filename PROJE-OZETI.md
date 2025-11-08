@@ -48,7 +48,8 @@ npm start
 
 # Linting
 npm run lint
-📁 Proje Yapısı
+
+## 📁 Proje Yapısı
 
 /app                 - Next.js App Router sayfaları
   /api              - API endpoints (products, payment)
