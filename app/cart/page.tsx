@@ -249,3 +249,22 @@ export default function Cart() {
               </div>
             </div>
           </div>
+          </div>
+        </div>
+
+        {/* Continue Shopping Suggestion */}
+        <div className="mt-12 text-center">
+          <p className="text-gray-600 mb-4">
+            Beğenebileceğiniz diğer ürünlerimize göz atın
+          </p>
+          <Link
+            href="/shop"
+            className="inline-flex items-center border border-black text-black px-6 py-3 rounded-md hover:bg-black hover:text-white transition-colors font-medium"
+          >
+            Mağazaya Dön
+          </Link>
+        </div>
+      </div>
+    </div>
+  )
+}
