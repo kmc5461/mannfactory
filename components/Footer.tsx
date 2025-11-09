@@ -6,7 +6,6 @@ export default function Footer() {
     <footer className="bg-white border-t border-gray-200 mt-auto">
       <div className="container mx-auto px-4 sm:px-6 lg:px-8 py-12">
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
-          {/* Brand Section */}
           <div className="col-span-1 md:col-span-2">
             <Link href="/" className="text-2xl font-bold text-black tracking-tight mb-4 block">
               MÄNN
@@ -34,39 +33,12 @@ export default function Footer() {
               </a>
             </div>
           </div>
-
-          {/* Navigation */}
           <div>
             <h3 className="text-sm font-semibold text-gray-900 tracking-wide uppercase mb-4">
               Navigasyon
             </h3>
             <ul className="space-y-3">
               <li>
-                <Link 
-                  href="/" 
-                  className="text-gray-600 hover:text-black transition-colors duration-200"
-                >
+                <Link href="/" className="text-gray-600 hover:text-black transition-colors duration-200">
                   Ana Sayfa
                 </Link>
-              </li>
-              <li>
-                <Link 
-                  href="/shop" 
-                  className="text-gray-600 hover:text-black transition-colors duration-200"
-                >
-                  Mağaza
-                </Link>
-              </li>
-              <li>
-                <Link 
-                  href="/about" 
-                  className="text-gray-600 hover:text-black transition-colors duration-200"
-                >
-                  Hakkımızda
-                </Link>
-              </li>
-              <li>
-                <Link 
-                  href="/contact" 
-                  className="text-gray-600 hover:text-black transition-colors duration-200"
-                >
