@@ -42,3 +42,39 @@ export default function Footer() {
                 <Link href="/" className="text-gray-600 hover:text-black transition-colors duration-200">
                   Ana Sayfa
                 </Link>
+              </li>
+              <li>
+                <Link href="/shop" className="text-gray-600 hover:text-black transition-colors duration-200">
+                  Mağaza
+                </Link>
+              </li>
+              <li>
+                <Link href="/about" className="text-gray-600 hover:text-black transition-colors duration-200">
+                  Hakkımızda
+                </Link>
+              </li>
+              <li>
+                <Link href="/contact" className="text-gray-600 hover:text-black transition-colors duration-200">
+                  İletişim
+                </Link>
+              </li>
+            </ul>
+          </div>
+          <div>
+            <h3 className="text-sm font-semibold text-gray-900 tracking-wide uppercase mb-4">
+              Müşteri Desteği
+            </h3>
+            <ul className="space-y-3">
+              <li>
+                <Link href="/shipping" className="text-gray-600 hover:text-black transition-colors duration-200">
+                  Kargo Bilgileri
+                </Link>
+              </li>
+              <li>
+                <Link href="/returns" className="text-gray-600 hover:text-black transition-colors duration-200">
+                  İade & Değişim
+                </Link>
+              </li>
+              <li>
+                <Link href="/size-guide" className="text-gray-600 hover:text-black transition-colors duration-200">
+                  Beden Reh
