@@ -104,7 +104,7 @@ export default function ProductPage({ params }: ProductPageProps) {
           text: product.description,
           url: window.location.href,
         })
-      } catch (error) {
+      } catch {
         // Fallback: URL'yi clipboard'a kopyala
         await navigator.clipboard.writeText(window.location.href)
         alert('Ürün linki kopyalandı!')
